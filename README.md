@@ -1,6 +1,6 @@
 # Pose Invariant Face Recognition
 
-  Face images captured in unconstrained environments usually contain pose variation, which significantly degrades the performance of algorithms designed to recognize frontal faces. This project implements a novel face identification framework capable of handling pose variations within ±45° of yaw.
+ ~ Face images captured in unconstrained environments usually contain pose variation, which significantly degrades the performance of algorithms designed to recognize frontal faces. This project implements a face identification framework capable of handling pose variations within ±45° of yaw.
 
 # Flowchart and Methodology
 
