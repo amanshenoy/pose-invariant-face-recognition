@@ -5,17 +5,17 @@
 # Flowchart and Methodology
 
 <p align="center">
-  <img width="420" height="460" src="https://github.com/amanshenoy/pose-invariant-face-recognition/blob/master/flowchart.png">
+  <img width="500" height="500" src="https://github.com/amanshenoy/pose-invariant-face-recognition/blob/master/flowchart.png">
 </p>
 
 
-  The proposed framework first transforms the original pose-invariant face recognition problem into a partial frontal face recognition problem. A robust patch-based face representation scheme is then developed to represent the synthesized partial frontal faces. For each patch, a transformation dictionary is learnt under the proposed multitask learning scheme. The transformation dictionary transforms the features of different poses into a discriminative subspace.
+~ The proposed framework first transforms the original pose-invariant face recognition problem into a partial frontal face recognition problem. A robust patch-based face representation scheme is then developed to represent the synthesized partial frontal faces. For each patch, a transformation dictionary is learnt under the proposed multitask learning scheme. The transformation dictionary transforms the features of different poses into a discriminative subspace.
 
+<p align="center">
+  <img width="600" height="400" src="https://github.com/amanshenoy/pose-invariant-face-recognition/blob/master/frontalization.png">
+</p>
 
-![frontalization](https://github.com/amanshenoy/pose-invariant-face-recognition/blob/master/frontalization.png)
-
-
-  Finally, face matching is performed using a PCA-based Face Recognition system called *‘Eigenface’* where the synthesised frontal face is matched with the correct frontal face from within a frontal face dataset. Experimentation was done using captured image of a subject at multiple angles and the frontalization algorithm was tested on multiple images in the *LFW (Labelled Faces in the Wild)* dataset.
+ ~ Finally, face matching is performed using a PCA-based Face Recognition system called *‘Eigenface’* where the synthesised frontal face is matched with the correct frontal face from within a frontal face dataset. Experimentation was done using captured image of a subject at multiple angles and the frontalization algorithm was tested on multiple images in the *LFW (Labelled Faces in the Wild)* dataset.
 
 # Citations and Implementation
 
