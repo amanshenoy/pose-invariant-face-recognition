@@ -5,7 +5,7 @@
 # Flowchart and Methodology
 
 <p align="center">
-  <img width="300" height="460" src="https://github.com/amanshenoy/pose-invariant-face-recognition/blob/master/flowchart.png">
+  <img width="420" height="460" src="https://github.com/amanshenoy/pose-invariant-face-recognition/blob/master/flowchart.png">
 </p>
 
 
