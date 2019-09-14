@@ -1,6 +1,5 @@
 'Eigenface' Face Recognition System
-Written by: Amir Hossein Omidvarnia
-Email: aomidvar@ece.ut.ac.ir           
+Written by: Amir Hossein Omidvarnia         
 
 This package implements a well-known PCA-based face recognition 
 method, which is called 'Eigenface' [1].
