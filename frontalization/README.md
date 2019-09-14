@@ -1,9 +1,3 @@
-Code for frontalizing faces based on the method described in [1]. 
-
-If you find this code useful and use it in your own work, please add
-reference to [1] and, if appropriate, other papers mentioned below.
-
-
 Install:
 --------
   1. Unzip files to a local folder (<frontalization>)
